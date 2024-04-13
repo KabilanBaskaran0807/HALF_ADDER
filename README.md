@@ -10,7 +10,6 @@
 
 # Verilog code
 # HALF_ADDER
-# PROGRAM
 ```
 module HalfAdder(a,b,sum,carry);
 
@@ -27,3 +26,6 @@ endmodule
 
 # output
 ![image](https://github.com/KabilanBaskaran0807/HALF_ADDER/assets/166724685/3d04b780-5673-4b57-b1f9-710594a02fbc)
+
+# RESULT:
+Thus the verilog program for half adder has been simulated and verified successfully.
